@@ -1,6 +1,6 @@
 ---
 layout: post
-title: React Native快速初始化
+title: 小明的React Native快速初始化
 excerpt: “ReactNative快速初始化教程”
 tags: [study， post, code, highlighting]
 modified: 2016-1-20
